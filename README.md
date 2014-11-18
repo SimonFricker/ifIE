@@ -26,6 +26,9 @@ Adapting legacy Internet Explorer to HTML5 and CSS3 standards. Simply add the fo
 </script>
 <![endif]-->
 
+<!--[if lte IE 7]>
+<script>alert("This website does not officially support legacy browsers like IE7 or below. Consider using Google Chrome.");</script>
+<![endif]-->
 
 
 
